@@ -11,9 +11,16 @@ To run this code, you will need:
 * An OpenAI API key (which you can obtain from [the OpenAI website](https://openai.com/))
 * A Google Colab account to run the code (Google Colab is a free environment for running Jupyter notebooks using Google's cloud infrastructure).
 
+## Run the demo in TWO STEPS!
+
+1. Put your OpenAI API key into the demo.ipynb code (you can open in Colab)
+2. Upload the Fine Food Reviews dataset into Colab.
+
+Then, just hit run on the code cells!
+
 ## Installation
 
-This code uses several Python modules that may need to be installed with `pip`. The modules and their installation commands are listed below:
+This code uses several Python modules that may need to be installed (easily) with `pip`. The modules and their installation commands are listed below:
 
 ```
 pip install openai
@@ -21,7 +28,6 @@ pip install pandas
 pip install tiktoken
 pip install tqdm
 ```
-
 ## How to Use
 
 1. Enter your OpenAI API key into the code.
