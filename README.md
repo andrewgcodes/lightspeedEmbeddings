@@ -1,7 +1,7 @@
 # lightspeedEmbeddings
 Use multithreading to get vector embeddings 10x faster. Built for the OpenAI text-ada-002 model.
 
-** 100 stars => command line script + more features & customization **
+**100 stars => command line script + more features & customization**
 
 ![image](https://cloud-1iyhwm2ki-hack-club-bot.vercel.app/0seconds_to_embed_1_000_documents__3_.png)
 
